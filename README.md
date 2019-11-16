@@ -1,4 +1,5 @@
 # flutter_iconv
+[![pub package](https://img.shields.io/pub/v/flutter_iconv.svg)](https://pub.dartlang.org/packages/flutter_iconv)
 利用ffi调用iconv转换编码
 a demo use ffi iconv ffi调用iconv
 only support android 只有安卓
